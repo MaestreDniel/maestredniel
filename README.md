@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **MaestreDniel/maestredniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## _Te doy la bienvenida a mi perfil de GitHub (en construcción)_ :construction: :warning: :construction:
+
+### <ins>Estoy cursando el FPGS de Desarrollo de Aplicaciones Web</ins>
+
+#### Estas son algunas de las herramientas que aprendí a manejar durante el primer curso:
+
+* Java
+* HTML
+* CSS
+* JavaScript
+* MongoDB
+* SQL
+* VirtualBox
+* GitHub
+* IntelliJ
+
+#### Estadísticas: :bar_chart:
