@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 #### Estadísticas: :bar_chart:
 
-![Stats Overview](https://raw.githubusercontent.com/maestredniel/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/maestredniel/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://github.com/MaestreDniel/github-stats-transparent/blob/output/generated/overview.svg)
+![Most Used Languages](https://github.com/MaestreDniel/github-stats-transparent/blob/output/generated/languages.svg)
 
