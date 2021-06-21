@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## _Te doy la bienvenida a mi perfil de GitHub (en construcción)_ :construction: :warning: :construction:
+## _Te doy la bienvenida a mi perfil de GitHub (en construcción)_ <img src="https://media.giphy.com/media/Wz1ifCgh3ztqqBDOCz/giphy.gif" width="32px">
 
 ### <ins>Estoy cursando el FPGS de Desarrollo de Aplicaciones Web</ins>
 
@@ -31,4 +31,6 @@ Here are some ideas to get you started:
 
 #### Estadísticas: :bar_chart:
 
-<img align="center" src="https://github.com/MaestreDniel/stats/blob/master/generated/languages.svg"/> <img align="center" src="https://github.com/MaestreDniel/stats/blob/master/generated/overview.svg"/>
+![Stats Overview](https://raw.githubusercontent.com/maestredniel/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/maestredniel/github-stats-transparent/output/generated/languages.svg)
+
