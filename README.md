@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## _Te doy la bienvenida a mi perfil de GitHub (en construcción)_ <img src="https://media.giphy.com/media/Wz1ifCgh3ztqqBDOCz/giphy.gif" width="32px">
+## _Te doy la bienvenida a mi perfil de GitHub_
 
 ### <ins>Estoy cursando el FPGS de Desarrollo de Aplicaciones Web</ins>
 
