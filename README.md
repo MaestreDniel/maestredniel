@@ -1,33 +1,17 @@
-<!--
-**MaestreDniel/maestredniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## _Te doy la bienvenida a mi perfil de GitHub_
 
-### <ins>Estoy cursando el FPGS de Desarrollo de Aplicaciones Web</ins>
+### <ins>Estoy cursando 2º del FPGS de Desarrollo de Aplicaciones Web</ins>
 
-#### Estas son algunas de las herramientas que aprendí a manejar durante el primer curso:
+#### Estas son algunas de las tecnologías que manejo actualmente:
 
-* Java
-* HTML
-* CSS
-* JavaScript
-* MongoDB
-* SQL
-* VirtualBox
-* GitHub
-* IntelliJ
+Front-end | Back-end | BBDD, IDE, otros
+---------- | ---------- | ----------
+HTML | Java | SQL
+CSS | PHP | Visual Studio
+JavaScript | Laravel | IntelliJ
+
+<img src="https://i.pinimg.com/originals/4a/75/25/4a7525f0f00df7f2aac5604b10cab82c.png" width="100px"><img src="https://img.utdstc.com/icon/d54/e1c/d54e1ca541ba7a220d54b2b0b39f450df49e42aeb848cd1552d02bfa89e17847:200" width="80px"> <img src="https://cdn-icons-png.flaticon.com/512/977/977624.png" width="65px">
+
 
 #### Estadísticas: :bar_chart:
 
