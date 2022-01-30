@@ -15,8 +15,8 @@ JavaScript | Laravel | IntelliJ
 
 #### Estadísticas: :bar_chart:
 
-![Stats Overview](https://github.com/MaestreDniel/github-stats-transparent/blob/output/generated/overview.svg)
-![Most Used Languages](https://github.com/MaestreDniel/github-stats-transparent/blob/output/generated/languages.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maestredniel&layout=compact&langs_count=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maestredniel&count_private=true&show_icons=true&hide_rank=true&count_private=true)
 
 #### Contacto:
 
