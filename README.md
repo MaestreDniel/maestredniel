@@ -6,12 +6,11 @@
 
 Front-end | Back-end | BBDD, IDE, otros
 ---------- | ---------- | ----------
-HTML | Java | SQL
-CSS | PHP | Visual Studio
-JavaScript | Laravel | IntelliJ
+Bootstrap | Java | SQL
+JavaScript | PHP | Visual Studio
+Vue | Laravel | IntelliJ
 
-<img src="https://i.pinimg.com/originals/4a/75/25/4a7525f0f00df7f2aac5604b10cab82c.png" width="100px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="65px"> <img src="https://cdn-icons-png.flaticon.com/512/977/977624.png" width="65px">
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" width="100px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="88px"><img src="https://i.pinimg.com/originals/4a/75/25/4a7525f0f00df7f2aac5604b10cab82c.png" width="150px">
 
 #### Estadísticas: :bar_chart:
 
